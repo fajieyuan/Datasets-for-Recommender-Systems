@@ -15,7 +15,10 @@ This is a repository of a topic-centric public data sources in high quality for 
 ### E-commerce
   - [Amazon](http://jmcauley.ucsd.edu/data/amazon/):: This dataset contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014
   - [Retailrocket recommender system dataset](https://www.kaggle.com/retailrocket/ecommerce-dataset):: The dataset consists of three files: a file with behaviour data (events.csv), a file with item properties (item_properties.сsv) and a file, which describes category tree (category_tree.сsv). The data has been collected from a real-world ecommerce website. 
-
+### Streaming
+    - [Bili,Tiktok,Kuaishou,Tencent](https://github.com/westlake-repl/NineRec):: This dataset contains  one pre-trained source dataset and 9 diverse target datasets, where all items have high-quality images and text descriptions.
+    - [TikTok]([https://github.com/westlake-repl/NineRec](https://github.com/westlake-repl/MicroLens)):: This dataset contains 1 bilion interactions, 3 million users and 1 million short videos. Text, images, audio and images are all included.
+    
 ### Music
   - [Amazon Music](http://jmcauley.ucsd.edu/data/amazon/):: This digital music dataset contains reviews and metadata from Amazon
   - [Yahoo Music](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r):: This dataset represents a snapshot of the Yahoo! Music community's preferences for various musical artists.
